@@ -1,0 +1,75 @@
+_repo: Sixth-annual-report-of-the-Bureau-of-ethnology-1888-N-06-1884-1885_51390
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Dorsey, James Owen
+    alias: Dorsey, J. Owen (James Owen)
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '7103'
+    url: http://www.gutenberg.org/2009/agents/7103
+  - agent_name: Holmes, William Henry
+    aliases:
+    - Holmes, William H. (William Henry)
+    - Holmes, W. H. (William Henry)
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '7330'
+    url: http://www.gutenberg.org/2009/agents/7330
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
+  - agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+  - agent_name: Boas, Franz
+    alias: Boaz, Franz
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '40195'
+    url: http://www.gutenberg.org/2009/agents/40195
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Boas
+creator:
+  editor:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, Wes
+    - Powell, J. W. (John Wesley)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: ''
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Canada'
+- !lcsh 'Osage Indians -- Folklore'
+- !lcsh 'Eskimos -- Music'
+- !lcsh 'Maya language'
+- !lcsh 'Codex Dresdensis Maya'
+- !lcsh 'Indian pottery -- Panama'
+- !lcsh 'Osage language -- Texts'
+- !lcsh 'Chiriquí (Panama : Province) -- Antiquities'
+- !lcsh 'Indians of Central America -- Panama'
+- !lcsh 'Decoration and ornament'
+- !lcsh 'Textile fabrics'
+- !lcsh 'Textile industry'
+- !lcsh 'Indian textile fabrics -- North America'
+- !lcc 'E011'
+- GITenberg
+tableOfContents: Report of the Director -- Ancient art of the province of Chiriqui
+  / William H. Holmes -- A study of the textile art in its relation to the development
+  of form and ornament / William H. Holmes -- Aids to the study of the Maya codices
+  / Cyrus Thomas -- Osage traditions / Rev. J. Owen Dorsey -- The central Eskimo /
+  Dr. Franz Boas.
+title: Sixth annual report of the Bureau of ethnology. (1888 N 06 / 1884-1885)
+url: http://www.gutenberg.org/ebooks/51390
