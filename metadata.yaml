@@ -1,5 +1,5 @@
 _repo: Sixth-annual-report-of-the-Bureau-of-ethnology-1888-N-06-1884-1885_51390
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Dorsey, James Owen
@@ -30,6 +30,9 @@ contributor:
     gutenberg_agent_id: '40195'
     url: http://www.gutenberg.org/2009/agents/40195
     wikipedia: http://en.wikipedia.org/wiki/Franz_Boas
+covers:
+- cover_type: archival
+  image_path: 51390-h/images/cover.jpg
 creator:
   editor:
     agent_name: Powell, John Wesley
@@ -42,6 +45,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7040
     wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51390#Sixth-annual-report-of-the-Bureau-of-ethnology-1888-N-06-1884-1885
 gutenberg_issued: '2016-03-08'
 gutenberg_type: Text
 identifiers:
